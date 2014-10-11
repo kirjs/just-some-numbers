@@ -1,4 +1,4 @@
-page    time    comment
+page,time
 22,17
 23,13
 24,17
@@ -228,9 +228,7 @@ page    time    comment
 212,19
 213,16
 214,24
-215,13g
-
-rabbit js timer
+215,13
 
 
 
